@@ -1,4 +1,4 @@
-# Practice problem for python intervews Using the `if __name__ == "__main__":` statement, break the loop in the `get_user_list()` function.
+# Practice problem for python intervews Using `if __name__ == "__main__":`. 
 import random
 
 if __name__ == "__main__":
