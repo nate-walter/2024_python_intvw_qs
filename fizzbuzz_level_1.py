@@ -26,4 +26,7 @@ if __name__ == "__main__":
                 print("Buzz")
             else:
                 print(i)
+    
+    limit = get_limit() 
+    fizzbuzz(limit)
 
