@@ -16,6 +16,6 @@ if __name__ == "__main__":
     
     user_list = get_user_list()
     reversed_list = reverse_list(user_list)
-    print("""Here's your reversed list. 
-          Anything else I can do for you. Maybe change your diaper? """, reversed_list)
+    print("****Here's your reversed list", reversed_list, "\n"
+          "Anything else I can do for you. Maybe change your diaper?")
 
