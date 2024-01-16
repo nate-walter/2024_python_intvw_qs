@@ -1,6 +1,6 @@
 # Skill sharpening for python interview question
 
-# Create a function that will only run if the file is imported as a module okayyyy??
+# Create a function that will only run if the file is imported as a module
 def outside_scripts():
     print("This function only runs if the file is imported as a module.")
 
