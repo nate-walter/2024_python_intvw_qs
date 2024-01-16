@@ -1,4 +1,4 @@
-# Skill sharpening for python interview question
+# Skill sharpening for python interview question, So there
 
 # Create a function that will only run if the file is imported as a module
 def outside_scripts():
